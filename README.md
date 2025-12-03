@@ -34,7 +34,9 @@ Cek juga repo lain nya:
     ```
 
     - jangan lupa ya file dan folder nya seperti ini:
+
     ![alt text](gambar/file.png)
+
 
 
 
@@ -256,7 +258,7 @@ Cek juga repo lain nya:
 
 3. **Hasil Akhir**
 
-    Tampilan setelah diberi css.
+    Tampilan setelah diberi css(ada yang belum), yang sebelumnya diganti 😗 jadi lebih comfy.
     
     ![alt text](gambar/3.1.png)
 
