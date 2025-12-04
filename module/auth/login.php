@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once __DIR__ . '/../../config/gajah.php';
-require_once ROOT . 'module/clank/form.php';
+require_once ROOT . 'config/form.php';
 
 $peng = [
     "rina@gmail.com" => ["nama" => "Rina Wulandari", "password" => "rina567", "role" => "User"],

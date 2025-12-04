@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 require_once __DIR__ . '/../../config/gajah.php';
 require ROOT . 'view/header.php';
-require_once ROOT . 'module/clank/form.php';
+require_once ROOT . 'config/form.php';
 
 if ($_POST) {
     $id = $_POST['id'];

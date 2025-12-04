@@ -5,4 +5,5 @@ $config = [
     'password'  => '',
     'db_name'   => 'latihan1',
 ];
+
 ?>
